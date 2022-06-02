@@ -1,0 +1,2 @@
+module contasys_pos {
+}
